@@ -1,8 +1,7 @@
 # Quick Screenshot
 
 A Chrome extension (Manifest V3) that captures a screenshot of the visible tab
-whenever you press a keyboard shortcut, converts it to JPG and saves it
-automatically. No dialogs, no new tabs, no interruption.
+whenever you press a keyboard shortcut, converts it to JPG and saves it.
 
 Everything runs locally. There is no server, no telemetry and no network access
 of any kind.
